@@ -5,9 +5,12 @@ The project indends to create a statement of work website for a particualar comp
 
 The upload and retrival of documents happens from the Amazon S3 storage also for local access we use the postgres DB.
 
+
+
  The entire Backend Flow :
  
 ![Alt text](https://github.com/akashsrikanth2310/Statement-of-work-web-project-using-Java-Spring-and-AWS-S3/blob/master/Architecture%20Diagrams/Backend%20Flow.png)
+
 
 
 The Front End Flow :
